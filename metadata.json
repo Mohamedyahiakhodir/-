@@ -1,0 +1,5 @@
+{
+  "name": "Bilingual Recipe Generator",
+  "description": "An application that generates creative recipes in Arabic or English based on ingredients you have. Powered by Gemini, it helps you discover new dishes and reduce food waste.",
+  "requestFramePermissions": []
+}
